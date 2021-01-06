@@ -1,0 +1,15 @@
+Maciej Łączyński 158809
+
+Projekt przedstawia schemat Muzyki i festiwali ( Album, Czlonkowie, Kapela, kapela_festiwal, Festiwal,  Utwor ).
+Albumy - Posiadają w sobie urwory oraz id kapeli która je stworzyła
+Czlonkowie - posiada informacje o członkach kapeli
+Kapele - tabela zawiera zespoły muzyczne oraz ich gatunek
+Festiwale - Ta tabela zawiera informacje gdzie i kiedy odbędzie się dany festiwal
+kapela_festiwal - Łączy festiwale z kapelami które na nich wystąpią
+Utwory - pokazuje, do którego albumu należy utwór oraz która kapela go stworzyła
+
+
+Zapytania są różne, od festiwali, po liczbę członków w zespole 
+Funkcja pokazuje Kosztownośc biletu względem jego ceny 
+Procedury sprawdzają, podnoszą i zmniejszają ceny biletów o 2 euro 
+Triggery zmieniają przy insercie nowego członka litery imiona na UPPERCASE oraz na lowercase przy updacie Imion
