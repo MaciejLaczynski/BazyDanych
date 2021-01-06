@@ -1,0 +1,4 @@
+CREATE DEFINER=`root`@`localhost` TRIGGER `czlonkowie_BEFORE_INSERT` BEFORE INSERT ON `czlonkowie` FOR EACH ROW 
+BEGIN
+SET NEW.Imie = UPPER(NEW.Imie);
+END

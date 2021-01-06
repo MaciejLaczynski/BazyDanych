@@ -1,0 +1,16 @@
+INSERT INTO Kapela (ID_Kapeli, Nazwa, GatunekMuzyczny, Opis)
+VALUES (1, 'Bring Me The Horizon', 'Rock, Metalcore', 'Brytyjska kapela rockowa, powstała w Sheffield w 2004 roku'),
+(2, 'Downplay', 'Alternatywny Metal', 'Amerykańska kapela założona w Atenach w stanie Ohio (Nie mylić z Atenami w Grecji) w 2003 roku'),
+(3, 'All Good Things', 'Alternatywny Rock', 'Amerykańska kapela założona w roku 2013 w Los Angeles'),
+(4, 'Watt White', 'Punk Rock', 'Nie kapela ale kompozytor, piosenkarz, tekściarz i producent z Nowego Jorku.'),
+(5, 'Fall Out Boy', 'Pop Punk', 'Zespół założony roku 2001 w Wilmette, Illinois'),
+(6, 'Rise Against', 'Hardcore Punk', 'Kapela punkowa założona w roku 1999 w Chicago '),
+(7, 'Caravan Palace', 'Electro Swing', 'Francuski zespół muzyczny założony w Paryżu w roku 2008'),
+(8, 'Lady Pank', 'Rock', 'Polski zespół muzyczny założony w roku 1981 we Wrocławiu'),
+(9, 'Twenty One Pilots', 'Rock', 'Zespól rockowy założony w roku 2009 w Columbus w stanie Ohio'),
+(10, 'Knife Party', 'Elektro', 'Australijska grupa tworząca muzykę elektroniczną różnego rodzaju, powstała w roku 2011 w Perth'),
+(11, 'Pendulum', 'Drum N Bass', 'Australijsko-Brytyjski zespół Drum N Bassowy założony w 2002 roku w Perth'),
+(12, 'Twin Shadow', 'Pop', 'Twin Shadow, jest dominikańsko-amerykańskim piosenkarzem, kompozytorem, producentem muzycznym oraz aktorem z Los Angeles w Kalifornii. Swoją karierę w świecie muzycznym rozpoczął w 2006 roku'),
+(13, 'Gorillaz', 'Hip-Hop', 'Wirtualny zespół założony przez Damona Albarna i Jamie Hewletta w 1998 tworzący muzykę będącą połączeniem hip-hopu, rocka i innych gatunków muzycznych.'),
+(14, 'Sabaton', 'Power Metal', 'Szwedzka grupa założona w Falun w roku 1999 wykonująca muzykę z pogranicza power i heavy metalu.'),
+(15, 'Alestorm', 'Power Metal', 'Szkocki zespół Power Metalowy założony w roku 2007')
